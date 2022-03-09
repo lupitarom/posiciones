@@ -1,0 +1,48 @@
+
+
+body {
+    background-color: #a7dbe3;
+    color: black;
+    font-size: 21px;
+
+    font-family: calibri;
+}
+h1 {
+    font-size: 70px;
+    color: blue;
+    font-family: couriel;
+    margin-bottom: 0px;
+}
+h2 {
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    line-height: 1.4;
+
+    background: yellow;
+    /*clear: both;*/
+}
+
+#caja1 {
+    height: 500px;
+    width: 500px;
+    background: red;
+
+    float: left;
+
+}
+#caja2 {
+    height: 400px;
+    width: 570px;
+    background: blue;
+
+    float: left;
+}
+
+img {
+    float: left;
+    margin-right: 50px;
+}
